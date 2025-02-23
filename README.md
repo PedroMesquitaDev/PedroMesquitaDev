@@ -6,7 +6,8 @@
 
 ##
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMesquitaDev&show_icons=true&theme=dark)
-##
+<br>
+
 ## Tecnologías que uso no meu dia a dia 
 
 <div style="display: inline_block"><br>
